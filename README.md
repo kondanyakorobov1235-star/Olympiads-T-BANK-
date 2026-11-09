@@ -8,7 +8,7 @@
 
 *   Международная студенческая интернет олимпиада по математике — 3 место.
 
-![Мой диплом](OIO.PNG)
+![Мой диплом](https://raw.githubusercontent.com/kondanyakobov1235-star/Olympiads-T-BANK-/main/OIO.PNG)
 
 ## 💼 Стажировки
 
